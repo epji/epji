@@ -1,3 +1,4 @@
+[comment]: <> (This is a comment, it will not be included)
 <p align="center">
   <img src="https://i.imgur.com/gwwifM7.jpeg" width="120px" alt="pastel bunny icon"/>
 </p>
