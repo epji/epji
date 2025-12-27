@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/gwwifM7.jpeg" width="120px" alt="pastel bunny icon"/>
-</p>
-
 
 <h1 align="center">🌸✨  hi, i’m epji ✨🌸</h1>
 
