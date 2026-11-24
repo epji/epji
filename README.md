@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🌸✨  hi, i’m epji ✨🌸</h1>
+<h1 align="center">🌸✨  hi, i’m arissa ✨🌸</h1>
 
 <p align="center">
   <em>coder-in-training • cs student in japan • artist • musician</em>
